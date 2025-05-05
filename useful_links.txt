@@ -1,0 +1,17 @@
+
+- Link to MicroPython and VSCode environment set up: https://randomnerdtutorials.com/raspberry-pi-pico-vs-code-micropython/#flash-micropython
+- Raspberry Pi MicroPython Support - https://www.raspberrypi.com/documentation/microcontrollers/micropython.html#drag-and-drop-micropython
+- Raspberry Pi W pinout descriptions - https://randomnerdtutorials.com/raspberry-pi-pico-w-pinout-gpios/#Raspberry-Pi-Pico-W-Pinout-Diagram
+
+########### Supporting hardware and functions #################
+- DS3231 RTC module Micropython support: https://randomnerdtutorials.com/raspberry-pi-pico-ds3231-rtc-micropython/
+
+- asyncio tutorial - https://github.com/peterhinch/micropython-async/blob/master/v3/docs/TUTORIAL.md
+	- beginners section of the above tutorial: https://github.com/peterhinch/micropython-async/blob/master/v3/docs/TUTORIAL.md#8-notes-for-beginners
+
+- Pico Pi W WiFi connection: https://randomnerdtutorials.com/raspberry-pi-pico-w-wi-fi-micropython/#:~:text=Connecting%20your%20Pico%20board%20to,IP%20address%20to%20that%20device.
+
+- 128x64 pixel SSD1306 OLED screen micropython ref: https://docs.micropython.org/en/latest/esp8266/tutorial/ssd1306.html
+	- SSD1306 MicroPython library: https://github.com/stlehmann/micropython-ssd1306/blob/master/ssd1306.py
+	
+- SD Card management on Pi Pico W with Micropython: https://randomnerdtutorials.com/raspberry-pi-pico-microsd-card-micropython
